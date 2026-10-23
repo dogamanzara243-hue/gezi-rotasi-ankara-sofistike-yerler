@@ -4,24 +4,29 @@ const DETAIL_DATA = {
     "badge": "Sofistike Yerler",
     "items": [
         {
-            "title": "Sofistike Nokta 1 - Ankara",
-            "desc": "Ankara şehrinin en nezih ve seçkin kafesi."
+            "category": "Popüler Nokta 1",
+            "title": "Önemli Mekan 1 - Ankara",
+            "desc": "Ankara şehrinin en çok ziyaret edilen gözde lokasyonlarından biri."
         },
         {
-            "title": "Sofistike Nokta 2 - Ankara",
-            "desc": "Sanat galerileri ve butik dükkanların sokağı."
+            "category": "Popüler Nokta 2",
+            "title": "Önemli Mekan 2 - Ankara",
+            "desc": "Tarihi ve kültürel dokusuyla büyüleyen özel bir nokta."
         },
         {
-            "title": "Sofistike Nokta 3 - Ankara",
-            "desc": "Sakin atmosferiyle öne çıkan özel buluşma alanı."
+            "category": "Popüler Nokta 3",
+            "title": "Önemli Mekan 3 - Ankara",
+            "desc": "Gezginlerin rotasından eksik etmediği popüler bir durak."
         },
         {
-            "title": "Sofistike Nokta 4 - Ankara",
-            "desc": "Şehrin seçkin kesiminin tercih ettiği mekan."
+            "category": "Popüler Nokta 4",
+            "title": "Önemli Mekan 4 - Ankara",
+            "desc": "Mimari ve doğal güzellikleriyle göz kamaştıran bölge."
         },
         {
-            "title": "Sofistike Nokta 5 - Ankara",
-            "desc": "Estetik detaylarıyla göz kamaştıran tasarım noktası."
+            "category": "Popüler Nokta 5",
+            "title": "Önemli Mekan 5 - Ankara",
+            "desc": "Ankara keşif turunun vazgeçilmez simgelerinden biri."
         }
     ]
 };
