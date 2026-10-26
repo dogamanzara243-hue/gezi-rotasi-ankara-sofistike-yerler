@@ -1,57 +1,57 @@
 {
     "title": "Ankara Sofistike Yerler Rehberi",
-    "description": "Ankara şehrindeki en seçkin sofistike yerler ve popüler duraklar.",
-    "badge": "Sofistike Yerler",
+    "description": "Ankara şehrindeki en şık, kültür dolu, zarafet ve özgünlük sunan sofistike mekânlar.",
+    "badge": "Sofistike & Gurme Deneyim",
     "category": [
         {
-            "id": "ankara-sofistike-yerler-1",
-            "title": "Ankara Butik Sanat Galerisi ve Atölye",
-            "category_badge": "Kültür & Sanat",
-            "badge_icon": "fa-gem",
-            "image": "https://images.unsplash.com/photo-1536924940846-227afb31e2a5?auto=format&fit=crop&w=800&q=80&fm=webp",
-            "description": "Ankara şehrinin eşsiz dokusunu yansıtan seçkin sanat eserlerinin sergilendiği, entelektüel buluşmaların adresi.",
-            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-ankara-sofistike-yerler/",
-            "button_text": "Keşfet"
+            "id": "cermodern-ankara",
+            "title": "CerModern",
+            "category_badge": "Çağdaş Sanat & Kültür",
+            "badge_icon": "fa-palette",
+            "image": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=800&q=80&fm=webp",
+            "description": "Eski demiryolu hangarlarının modern mimariyle dönüştürüldüğü, Ankara'nın en saygın çağdaş sanat galerisi ve kültür kompleksi.",
+            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-ankara-sofistike-yerler/cermodern",
+            "button_text": "Sergileri Keşfet"
         },
         {
-            "id": "ankara-sofistike-yerler-2",
-            "title": "Ankara Nezih Kahve ve Tasarım Kafe",
-            "category_badge": "Gurme & Atmosfer",
-            "badge_icon": "fa-mug-hot",
-            "image": "https://images.unsplash.com/photo-1501339847302-ac426a4a7cbb?auto=format&fit=crop&w=800&q=80&fm=webp",
-            "description": "Ankara şehrinin eşsiz dokusunu yansıtan özel demleme kahveleri ve sakin atmosferiyle seçkinlerin tercihi.",
-            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-ankara-sofistike-yerler/",
-            "button_text": "Keşfet"
-        },
-        {
-            "id": "ankara-sofistike-yerler-3",
-            "title": "Ankara Tasarım Moda Sokağı",
-            "category_badge": "Lüks & Stil",
-            "badge_icon": "fa-shirt",
-            "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&w=800&q=80&fm=webp",
-            "description": "Ankara şehrinin eşsiz dokusunu yansıtan özgün tasarım butiklerinin ve haute couture mağazaların yer aldığı şık sokak.",
-            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-ankara-sofistike-yerler/",
-            "button_text": "Keşfet"
-        },
-        {
-            "id": "ankara-sofistike-yerler-4",
-            "title": "Ankara Tarihi Butik Otel ve Konaklama",
-            "category_badge": "Aristokratik Dokunuş",
-            "badge_icon": "fa-hotel",
-            "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80&fm=webp",
-            "description": "Ankara şehrinin eşsiz dokusunu yansıtan asırlık mimariyi lüks konforla buluşturan seçkin konaklama noktası.",
-            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-ankara-sofistike-yerler/",
-            "button_text": "Keşfet"
-        },
-        {
-            "id": "ankara-sofistike-yerler-5",
-            "title": "Ankara Manzaralı Çatı Katı Restoranı",
-            "category_badge": "Fine Dining",
-            "badge_icon": "fa-utensils",
+            "id": "cankaya-trt-orfindo",
+            "title": "Atakule Lounge & Seyir Terası",
+            "category_badge": "Panoramik Gastronomi",
+            "badge_icon": "fa-wine-glass",
             "image": "https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&q=80&fm=webp",
-            "description": "Ankara şehrinin eşsiz dokusunu yansıtan şehrin siluetine nazır, ödüllü mutfağıyla üst düzey gastronomik deneyim.",
-            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-ankara-sofistike-yerler/",
-            "button_text": "Keşfet"
+            "description": "Ankara'nın simgesi Atakule'de, şehrin ışıklarına karşı rafine lezzetler ve sofistike bir akşam yemeği deneyimi.",
+            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-ankara-sofistike-yerler/atakule-lounge",
+            "button_text": "Deneyimi İncele"
+        },
+        {
+            "id": "resim-heykeli-muzesi-ankara",
+            "title": "Ankara Resim ve Heykel Müzesi",
+            "category_badge": "Neoklasik Zarafet",
+            "badge_icon": "fa-building-columns",
+            "image": "https://images.unsplash.com/photo-1566127444979-b3d2b654e3d7?auto=format&fit=crop&w=800&q=80&fm=webp",
+            "description": "Mimar Arif Hikmet Koyunoğlu'nun neoklasik başyapıtında Türk resim ve heykel sanatının seçkin örnekleri.",
+            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-ankara-sofistike-yerler/resim-heykel-muzesi",
+            "button_text": "Koleksiyonu Gör"
+        },
+        {
+            "id": "seğmenler-parki-amfi",
+            "title": "Seğmenler Parkı & Caz Buluşmaları",
+            "category_badge": "Kentsel Büyü",
+            "badge_icon": "fa-music",
+            "image": "https://images.unsplash.com/photo-1448375240586-882707db888b?auto=format&fit=crop&w=800&q=80&fm=webp",
+            "description": "Çankaya sırtlarında yemyeşil amfitiyatrosu, açık hava konserleri ve entelektüel atmosferiyle ünlü şehir kaçamağı.",
+            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-ankara-sofistike-yerler/segmenler-parki",
+            "button_text": "Parkı Keşfet"
+        },
+        {
+            "id": "turk-ocagi-sahnesi",
+            "title": "Tarihi Türk Ocağı Sahnesi",
+            "category_badge": "Prestijli Tiyatro & Operet",
+            "badge_icon": "fa-masks-theater",
+            "image": "https://images.unsplash.com/photo-1507676184212-d03ab07a01bf?auto=format&fit=crop&w=800&q=80&fm=webp",
+            "description": "Cumhuriyet döneminin ilk tiyatro salonunda yüksek sanat ve operetlerin sergilendiği görkemli atmosfer.",
+            "target_url": "https://dogamanzara243-hue.github.io/gezi-rotasi-ankara-sofistike-yerler/turk-ocagi-sahnesi",
+            "button_text": "Programı Gör"
         }
     ]
 }
